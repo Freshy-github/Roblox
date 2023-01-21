@@ -1,1 +1,1 @@
-  game.Players.localPlayer:kick("Script Updating follow news in discord")
+  game.Players.localPlayer:kick(string.upper("Script Updating follow news in discord"))
