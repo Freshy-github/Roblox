@@ -1,0 +1,1 @@
+game.Players.localPlayer:kick(string.upper("Script Updating follow news in discord"))
