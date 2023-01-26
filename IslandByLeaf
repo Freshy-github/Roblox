@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:kick("1")
+game.Players.LocalPlayer:kick(string.upper("script is down, updating"))
