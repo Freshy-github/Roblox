@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:kick(string.upper("Island Updated, Script is down follow news on discord"))
+game.Players.LocalPlayer:kick(string.upper("script is down, updating"))
